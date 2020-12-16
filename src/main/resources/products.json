@@ -1,0 +1,17 @@
+[
+  {
+    "id": "11",
+    "name": "productOne",
+    "version": "1.0"
+    },
+  {
+    "id": "12",
+    "name": "productTwo",
+    "version": "1.2"
+  },
+  {
+    "id": "13",
+    "name": "productThree",
+    "version": "1.3"
+  }
+]
